@@ -1,0 +1,25 @@
+# abm_check設定ファイル（オプション）
+# このファイルをプロジェクトルートに配置すると、デフォルト設定を上書きできます
+
+# シーズン検出の設定
+season_detection:
+  threshold: 12        # この話数以上でシーズン2以降を探索
+  max_seasons: 10      # 最大検出シーズン数
+
+# URL設定
+urls:
+  base_url: https://abema.tv/video/title
+  episode_base_url: https://abema.tv/video/episode
+  season_url_pattern: https://abema.tv/video/title/{program_id}?s={program_id}_s{season}&eg={program_id}_eg0
+
+# ストレージ設定
+storage:
+  programs_file: programs.yaml
+  output_dir: output
+
+# yt-dlpオプション
+ytdlp:
+  quiet: true
+  no_warnings: true
+  skip_download: true
+  extract_flat: false

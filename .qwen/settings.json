@@ -1,0 +1,44 @@
+{
+  "mcpServers": {
+    "context7-mcp": {
+      "command": "bunx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ],
+      "disabled": false,
+      "autoApprove": []
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-brave-search"
+      ],
+      "env": {
+        "BRAVE_API_KEY": "BSA_lIDkTruZuBc6eJn78nJH0xYYyFz"
+      }
+    },
+    "fetch": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch"
+      ]
+    },
+    "any-script": {
+      "command": "npx",
+      "args": [
+        "any-script-mcp"
+      ]
+    }
+  },
+  "manifest": {
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "storage",
+      "debugger"
+    ]
+  },
+  "$version": 2
+}
