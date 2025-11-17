@@ -9,6 +9,9 @@ t/
 AGENTS.md
 GEMINI.md
 QWEN.md
+.cache
+.qoder
+.qwen
 *.yaml
 *.yml
 output/
