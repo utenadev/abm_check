@@ -149,13 +149,43 @@ def test_update_all_programs_success(runner, mock_infra, create_program, create_
     """Test 'update' for all programs."""
     prog1 = create_program("p1", [], title="Prog 1")
     diff1 = EpisodeDiff(new_episodes=[create_episode("p1e2", 2)], premium_to_free=[])
-    
+
     mock_infra["updater"].update_all_programs.return_value = {"p1": diff1}
     mock_infra["storage"].find_program.return_value = prog1
-    
+
     result = runner.invoke(cli, ['update'])
-    
+
     mock_infra["updater"].update_all_programs.assert_called_once()
     mock_infra["dl_gen"].generate_combined_list.assert_called_once()
     assert '[INFO] Updated 1 programs' in result.output
+    assert result.exit_code == 0
+
+def test_cli_with_data_file_option(runner, mock_infra, create_program, create_episode):
+    """Test all commands with --data-file option."""
+    program_id = "test-data-file"
+    custom_file = "custom_programs.yaml"
+    mock_program = create_program(program_id, [create_episode("ep1", 1)], title="Test Program")
+
+    # Test 'add' command with --data-file
+    mock_infra["fetcher"].fetch_program_info.return_value = mock_program
+    result = runner.invoke(cli, ['--data-file', custom_file, 'add', program_id])
+
+    # Check that the CLI output includes the custom file name
+    assert "custom_programs.yaml" in result.output
+
+    # Test 'list' command with --data-file
+    mock_infra["storage"].load_programs.return_value = [mock_program]
+    result = runner.invoke(cli, ['--data-file', custom_file, 'list'])
+    assert program_id in result.output
+    assert result.exit_code == 0
+
+    # Reset the mock
+    mock_infra["storage"].reset_mock()
+
+    # Test 'update' command with --data-file
+    from abm_check.infrastructure.updater import ProgramUpdater
+    diff = EpisodeDiff(new_episodes=[create_episode("ep2", 2)], premium_to_free=[])
+    mock_infra["updater"].update_program.return_value = diff
+    mock_infra["storage"].find_program.return_value = mock_program
+    result = runner.invoke(cli, ['--data-file', custom_file, 'update', program_id])
     assert result.exit_code == 0

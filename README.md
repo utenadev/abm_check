@@ -303,14 +303,16 @@ Markdown形式で番組情報を見やすく整形:
 | ✅ | 500 | PVタイトル |
 ```
 
-## ログ出力
+## 共通オプション
 
 - `--verbose` / `-v`: 詳細ログ出力
 - `--quiet` / `-q`: エラーのみ出力
+- `--data-file`: データベースファイルのパス (デフォルト: programs.yaml)
 
 ```bash
 abm_check add 26-156 -v
 abm_check update -q
+abm_check list --data-file custom_programs.yaml
 ```
 
 cron等での自動実行に適した簡潔なログ出力を採用しています。

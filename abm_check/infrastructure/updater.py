@@ -17,10 +17,10 @@ class EpisodeDiff:
 
 class ProgramUpdater:
     """Handle program updates with diff detection."""
-    
-    def __init__(self, fetcher=None, storage=None):
+
+    def __init__(self, fetcher=None, storage=None, data_file=None):
         self.fetcher = fetcher or AbemaFetcher()
-        self.storage = storage or ProgramStorage()
+        self.storage = storage or ProgramStorage(data_file=data_file)
     
     def update_program(self, program_id: str) -> Optional[EpisodeDiff]:
         """
