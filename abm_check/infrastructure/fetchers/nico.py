@@ -71,10 +71,12 @@ class NicoFetcher(BaseFetcher):
                         continue
             
             # Create synthetic info dict for caching
+            # Safely access feed.feed attributes
+            feed_info = getattr(feed, 'feed', {})
             synthetic_info = {
                 'id': program_id,
-                'title': feed.feed.get('title', program_id),
-                'description': feed.feed.get('description', ''),
+                'title': feed_info.get('title', program_id) if feed_info else program_id,
+                'description': feed_info.get('description', '') if feed_info else '',
                 'webpage_url': f"https://ch.nicovideo.jp/{program_id}",
                 'thumbnail': '',
                 'entries': [ep.__dict__ for ep in episodes]
