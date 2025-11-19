@@ -1,0 +1,3786 @@
+programs:
+- id: 25-301
+  title: 終末ツーリング
+  description: '誰もいない終末世界を旅する少女、ヨーコとアイリ。
+
+
+    名所の風景ふたりじめで写真を撮ったり、自然いっぱいな街中でキャンプをしたり。
+
+
+    オフロードバイク・セローにタンデムで走る２人の旅は、
+
+    渋滞もなければ信号にも止められない、
+
+    いまだかつてない自由なツーリング旅！
+
+
+    2人の少女と1台のセローが滅んだ日本を駆け回る、
+
+    異色のツーリングコミックがテレビアニメ化！
+
+
+    世界も終わったし、バイクに乗って旅に出よう！'
+  url: https://abema.tv/video/title/25-301
+  thumbnailUrl: ''
+  totalEpisodes: 8
+  latestEpisodeNumber: 7
+  fetchedAt: '2025-11-08T23:18:02.694807'
+  updatedAt: '2025-11-16T23:48:43.919982'
+  episodes:
+  - id: 25-301_s1_p1
+    number: 1
+    title: 第1話 箱根
+    description: 終末ツーリング - 第1話 箱根等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p1/1080/playlist.m3u8?aver=2
+    uploadDate: '20251004'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p1/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p1/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p1/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p1/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p1/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p1/1080/playlist.m3u8?aver=2
+  - id: 25-301_s1_p2
+    number: 2
+    title: 第2話 横浜・横須賀
+    description: 終末ツーリング - 第2話 横浜・横須賀等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p2/1080/playlist.m3u8?aver=2
+    uploadDate: '20251011'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p2/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p2/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p2/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p2/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p2/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p2/1080/playlist.m3u8?aver=2
+  - id: 25-301_s1_p3
+    number: 3
+    title: "第3\0話 世田谷・新橋・有明・東京ビッグサイト"
+    description: 終末ツーリング - 第3話 世田谷・新橋・有明・東京ビッグサイト等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p3/1080/playlist.m3u8?aver=1
+    uploadDate: '20251018'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p3/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p3/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p3/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p3/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p3/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p3/1080/playlist.m3u8?aver=1
+  - id: 25-301_s1_p4
+    number: 4
+    title: 第4話 秋葉原
+    description: 終末ツーリング - 第4話 秋葉原等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p4/1080/playlist.m3u8?aver=1
+    uploadDate: '20251025'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p4/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p4/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p4/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p4/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p4/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p4/1080/playlist.m3u8?aver=1
+  - id: 25-301_s1_p5
+    number: 5
+    title: 第5話 流山・利根川運河・木更津
+    description: 終末ツーリング - 第5話 流山・利根川運河・木更津等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p5/1080/playlist.m3u8?aver=1
+    uploadDate: '20251101'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p5/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p5/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p5/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p5/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p5/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p5/1080/playlist.m3u8?aver=1
+  - id: 25-301_s1_p6
+    number: 6
+    title: 第6話 海ほたる
+    description: 終末ツーリング - 第6話 海ほたる等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20251108'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p6/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p6/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p6/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p6/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p6/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p6/1080/playlist.m3u8?aver=1
+  - id: 25-301_s1_p7
+    number: 7
+    title: 第7話
+    description: 終末ツーリング - 第7話等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p7/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p7/1080/playlist.m3u8?aver=1
+    uploadDate: '20251115'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p7/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p7/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p7/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p7/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p7/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p7/1080/playlist.m3u8?aver=1
+  - id: 25-301_s1_p500
+    number: 500
+    title: PV【10/4より毎週土曜23:30〜地上波同時・WEB最速配信】
+    description: 終末ツーリング - PV【10/4より毎週土曜23:30〜地上波同時・WEB最速配信】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 58
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-301_s1_p500/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-301_s1_p500/1080/playlist.m3u8?aver=1
+    uploadDate: '20250924'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p500/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p500/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p500/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p500/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p500/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/25-301_s1_p500/1080/playlist.m3u8?aver=1
+- id: 189-85
+  title: 機械じかけのマリー
+  description: '「ついに完成いたしました。機械人形(ロボットメイド)のマリーです」
+
+
+    元天才格闘家の少女・マリーは人間としての身分を隠し、人間嫌いの大財閥の御曹司・アーサーの屋敷に“機械人形(ロボットメイド)”として働くことになったが・・・
+
+
+    ──正体がバレれば即処刑！？
+
+
+    “機械人形(ロボットメイド)”として、持ち前の無表情を活かして職務を全うし、
+
+    アーサーの命を狙い襲い来る暗殺者から彼を守るため奮闘する。
+
+    しかし、マリーを溺愛するアーサーに人間だとバレるピンチも訪れ、日々ヒヤヒヤ、ドキドキ！
+
+
+    嘘から始まる主従関係が、やがて思いがけない恋へと発展していく。'
+  url: https://abema.tv/video/title/189-85
+  thumbnailUrl: ''
+  totalEpisodes: 7
+  latestEpisodeNumber: 6
+  fetchedAt: '2025-11-08T23:10:23.048695'
+  updatedAt: '2025-11-16T23:48:48.328292'
+  episodes:
+  - id: 189-85_s1_p1
+    number: 1
+    title: 第1話 嘘と秘密にまみれたマリー
+    description: 機械じかけのマリー - 第1話 嘘と秘密にまみれたマリー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-85_s1_p1/1080/playlist.m3u8?aver=1
+    uploadDate: '20251010'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p1/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p1/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p1/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p1/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p1/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p1/1080/playlist.m3u8?aver=1
+  - id: 189-85_s1_p2
+    number: 2
+    title: 第2話 疑われるマリー
+    description: 機械じかけのマリー - 第2話 疑われるマリー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p2/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20251017'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p2/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p2/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p2/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p2/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p2/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p2/1080/playlist.m3u8?aver=1
+  - id: 189-85_s1_p3
+    number: 3
+    title: 第3話 見破られるマリー
+    description: 機械じかけのマリー - 第3話 見破られるマリー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p3/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20251024'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p3/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p3/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p3/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p3/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p3/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p3/1080/playlist.m3u8?aver=2
+  - id: 189-85_s1_p4
+    number: 4
+    title: 第4話 恋するマリー
+    description: 機械じかけのマリー - 第4話 恋するマリー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p4/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20251031'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p4/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p4/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p4/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p4/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p4/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p4/1080/playlist.m3u8?aver=1
+  - id: 189-85_s1_p5
+    number: 5
+    title: 第5話 嫉妬するマリー
+    description: 機械じかけのマリー - 第5話 嫉妬するマリー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p5/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20251107'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p5/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p5/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p5/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p5/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p5/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p5/1080/playlist.m3u8?aver=1
+  - id: 189-85_s1_p6
+    number: 6
+    title: 第6話 囚われのマリー
+    description: 機械じかけのマリー - 第6話 囚われのマリー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p6/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-85_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20251114'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p6/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p6/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p6/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p6/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p6/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p6/1080/playlist.m3u8?aver=1
+  - id: 189-85_s1_p500
+    number: 500
+    title: "PV【10/10より毎\0\0週金曜23:00～配信】"
+    description: 機械じかけのマリー - PV【10/10より毎週金曜23:00～配信】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 109
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-85_s1_p500/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-85_s1_p500/1080/playlist.m3u8?aver=1
+    uploadDate: '20251005'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p500/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p500/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p500/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p500/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p500/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-85_s1_p500/1080/playlist.m3u8?aver=1
+- id: 26-249
+  title: 瑠璃の宝石
+  description: '2019年より『ハルタ』（KADOKAWA）にて連載中の『瑠璃の宝石』がアニメ化決定！
+
+    鉱物学を修めた渋谷圭一郎による原作のアニメーション制作を担当するのはスタジオバインド。『無職転生』で壮大な大河ファンタジーを描き、『お兄ちゃんはおしまい！』ではキュートな日常劇を作り上げた実力派スタジオが、雄大な自然と可愛い女の子たちの魅力を余すところなく再現します！'
+  url: https://abema.tv/video/title/26-249
+  thumbnailUrl: ''
+  totalEpisodes: 13
+  latestEpisodeNumber: 13
+  fetchedAt: '2025-11-08T23:11:08.625525'
+  updatedAt: '2025-11-08T23:11:08.625525'
+  episodes:
+  - id: 26-249_s1_p1
+    number: 1
+    title: 第1話 はじめての鉱物採集
+    description: 瑠璃の宝石 - 第1話 はじめての鉱物採集等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p1/1080/playlist.m3u8?aver=1
+    uploadDate: '20250709'
+  - id: 26-249_s1_p2
+    number: 2
+    title: 第2話 金色の価値
+    description: 瑠璃の宝石 - 第2話 金色の価値等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p2/1080/playlist.m3u8?aver=1
+    uploadDate: '20250716'
+  - id: 26-249_s1_p3
+    number: 3
+    title: 第3話 残された恒星
+    description: 瑠璃の宝石 - 第3話 残された恒星等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p3/1080/playlist.m3u8?aver=1
+    uploadDate: '20250723'
+  - id: 26-249_s1_p4
+    number: 4
+    title: 第4話 砂を繙く
+    description: 瑠璃の宝石 - 第4話 砂を繙く等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p4/1080/playlist.m3u8?aver=1
+    uploadDate: '20250730'
+  - id: 26-249_s1_p5
+    number: 5
+    title: 第5話 見える世界、見えざる世界
+    description: 瑠璃の宝石 - 第5話 見える世界、見えざる世界等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p5/1080/playlist.m3u8?aver=1
+    uploadDate: '20250806'
+  - id: 26-249_s1_p6
+    number: 6
+    title: 第6話 その青をみつめて
+    description: 瑠璃の宝石 - 第6話 その青をみつめて等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20250813'
+  - id: 26-249_s1_p7
+    number: 7
+    title: 第7話 渚のリサイクル工房
+    description: 瑠璃の宝石 - 第7話 渚のリサイクル工房等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p7/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p7/1080/playlist.m3u8?aver=1
+    uploadDate: '20250820'
+  - id: 26-249_s1_p8
+    number: 8
+    title: 第8話 黄昏色のエレジー
+    description: 瑠璃の宝石 - 第8話 黄昏色のエレジー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p8/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p8/1080/playlist.m3u8?aver=1
+    uploadDate: '20250827'
+  - id: 26-249_s1_p9
+    number: 9
+    title: 第9話 １９０万トンのタイムカプセル
+    description: 瑠璃の宝石 - 第9話 １９０万トンのタイムカプセル等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p9/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p9/1080/playlist.m3u8?aver=1
+    uploadDate: '20250903'
+  - id: 26-249_s1_p10
+    number: 10
+    title: 第10話 ワンセンテンスの廃線路
+    description: 瑠璃の宝石 - 第10話 ワンセンテンスの廃線路等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p10/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p10/1080/playlist.m3u8?aver=1
+    uploadDate: '20250910'
+  - id: 26-249_s1_p11
+    number: 11
+    title: 第11話 サファイアのゆりかご
+    description: 瑠璃の宝石 - 第11話 サファイアのゆりかご等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p11/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p11/1080/playlist.m3u8?aver=1
+    uploadDate: '20250917'
+  - id: 26-249_s1_p12
+    number: 12
+    title: 第12話 想い出は石とノイズと
+    description: 瑠璃の宝石 - 第12話 想い出は石とノイズと等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p12/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p12/1080/playlist.m3u8?aver=1
+    uploadDate: '20250924'
+  - id: 26-249_s1_p13
+    number: 13
+    title: 第13話 見上げて覗いて探して、次！
+    description: 瑠璃の宝石 - 第13話 見上げて覗いて探して、次！等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-249_s1_p13/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-249_s1_p13/1080/playlist.m3u8?aver=1
+    uploadDate: '20251001'
+- id: 26-253
+  title: 最後にひとつだけお願いしてもよろしいでしょうか
+  description: '舞踏会での婚約破棄。
+
+    それはよくある“悪役令嬢”への断罪シーンとなるはずでした ――
+
+
+    舞踏会の最中、婚約をしていた第二王子・カイルから、
+
+    いきなり理不尽な婚約破棄を告げられた公爵令嬢・スカーレット。
+
+    さらには“新しい婚約者”がいると告げられ、ありもしない罪まで着せられてしまう。
+
+    幼少期から続いていたカイルの数々の嫌がらせにも
+
+    “婚約者”ということで耐え続けてきたが、ついに我慢の限界を迎えてしまい…
+
+
+    「私の最後のお願いです。
+
+    このクソアマをブッ飛ばしてもよろしいですか？」
+
+
+    見目麗しき公爵令嬢スカーレットが“拳”を握り、舞い踊る！！
+
+
+    シリーズ累計200万部突破の人気作がTVアニメ化！
+
+    武闘派令嬢のスカッと痛快ファンタジー、ここに開幕！'
+  url: https://abema.tv/video/title/26-253
+  thumbnailUrl: ''
+  totalEpisodes: 8
+  latestEpisodeNumber: 7
+  fetchedAt: '2025-11-08T23:17:12.916581'
+  updatedAt: '2025-11-16T23:49:02.094189'
+  episodes:
+  - id: 26-253_s1_p1
+    number: 1
+    title: EPISODE 1 悪徳貴族（豚野郎達）を思う存分ボコボコにしてスカッとしてもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 1 悪徳貴族（豚野郎達）を思う存分ボコボコにしてスカッとしてもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p1/1080/playlist.m3u8?aver=1
+    uploadDate: '20251003'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p1/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p1/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p1/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p1/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p1/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p1/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p2
+    number: 2
+    title: EPISODE 2 拳の味を教えて差し上げる、これを淑女の嗜みとしてもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 2 拳の味を教えて差し上げる、これを淑女の嗜みとしてもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p2/1080/playlist.m3u8?aver=1
+    uploadDate: '20251010'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p2/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p2/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p2/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p2/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p2/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p2/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p3
+    number: 3
+    title: EPISODE 3 ちゃんと話し合いで解決しようと思いましたが、やはりボンボコボンボコ上位貴族を殴ってもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 3 ちゃんと話し合いで解決しようと思いましたが、やはりボンボコボンボコ上位貴族を殴ってもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p3/1080/playlist.m3u8?aver=1
+    uploadDate: '20251017'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p3/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p3/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p3/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p3/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p3/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p3/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p4
+    number: 4
+    title: EPISODE 4 拳の想い人（サンドバッグ）に会いに行ってもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 4 拳の想い人（サンドバッグ）に会いに行ってもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p4/1080/playlist.m3u8?aver=1
+    uploadDate: '20251024'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p4/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p4/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p4/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p4/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p4/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p4/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p5
+    number: 5
+    title: EPISODE 5 クソ王子をブッ飛ばしてもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 5 クソ王子をブッ飛ばしてもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p5/1080/playlist.m3u8?aver=1
+    uploadDate: '20251031'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p5/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p5/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p5/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p5/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p5/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p5/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p6
+    number: 6
+    title: EPISODE 6 豚さんを空に飛ばして差し上げてもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 6 豚さんを空に飛ばして差し上げてもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20251107'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p6/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p6/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p6/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p6/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p6/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p6/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p7
+    number: 7
+    title: EPISODE 7 ギャップ萌え作戦を決行してもよろしいでしょうか
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - EPISODE 7 ギャップ萌え作戦を決行してもよろしいでしょうか等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p7/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p7/1080/playlist.m3u8?aver=1
+    uploadDate: '20251114'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p7/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p7/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p7/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p7/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p7/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p7/1080/playlist.m3u8?aver=1
+  - id: 26-253_s1_p500
+    number: 500
+    title: PV【10/3より毎週金曜24:30〜配信】
+    description: 最後にひとつだけお願いしてもよろしいでしょうか - PV【10/3より毎週金曜24:30〜配信】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 106
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-253_s1_p500/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-253_s1_p500/1080/playlist.m3u8?aver=1
+    uploadDate: '20250924'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p500/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p500/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p500/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p500/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p500/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/26-253_s1_p500/1080/playlist.m3u8?aver=1
+- id: 189-86
+  title: 笑顔のたえない職場です。
+  description: '双見は駆け出しの少女漫画家。
+
+    クールな担当編集や、頼もしいアシスタントらの
+
+    力を借りて、念願の将棋漫画『昴へ』の連載を、
+
+    ようやくスタートさせることができたけど……
+
+
+    ストレスでお腹をやられて、1話から締切を延ばしてもらったり。
+
+    ネームが進まず、深夜まで机にかじりつく羽目になったり。
+
+    夜食で太っちゃったり、
+
+    よからぬ妄想が止まらなかったり……
+
+
+    前途多難な漫画家ライフ、笑顔で謳歌できるのか――！？'
+  url: https://abema.tv/video/title/189-86
+  thumbnailUrl: ''
+  totalEpisodes: 7
+  latestEpisodeNumber: 6
+  fetchedAt: '2025-11-08T23:17:34.537370'
+  updatedAt: '2025-11-17T23:14:01.268237'
+  episodes:
+  - id: 189-86_s1_p1
+    number: 1
+    title: 第1話 とある漫画家と編集です。
+    description: 笑顔のたえない職場です。 - 第1話 とある漫画家と編集です。等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p1/1080/playlist.m3u8?aver=1
+    uploadDate: '20251011'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p1/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p1/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p1/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p1/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p1/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p1/1080/playlist.m3u8?aver=1
+  - id: 189-86_s1_p2
+    number: 2
+    title: 第2話 心底頼れるアシさんです。
+    description: 笑顔のたえない職場です。 - 第2話 心底頼れるアシさんです。等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p2/1080/playlist.m3u8?aver=1
+    uploadDate: '20251018'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p2/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p2/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p2/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p2/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p2/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p2/1080/playlist.m3u8?aver=1
+  - id: 189-86_s1_p3
+    number: 3
+    title: 第3話 猫の手も借りたい状況です。
+    description: 笑顔のたえない職場です。 - 第3話 猫の手も借りたい状況です。等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p3/1080/playlist.m3u8?aver=2
+    uploadDate: '20251025'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p3/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p3/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p3/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p3/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p3/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p3/1080/playlist.m3u8?aver=2
+  - id: 189-86_s1_p4
+    number: 4
+    title: 第4話 一人じゃできない仕事です。
+    description: 笑顔のたえない職場です。 - 第4話 一人じゃできない仕事です。等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p4/1080/playlist.m3u8?aver=2
+    uploadDate: '20251101'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p4/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p4/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p4/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p4/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p4/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p4/1080/playlist.m3u8?aver=2
+  - id: 189-86_s1_p5
+    number: 5
+    title: 第5話 先輩は自称ライバルです。
+    description: 笑顔のたえない職場です。 - 第5話 先輩は自称ライバルです。等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p5/1080/playlist.m3u8?aver=2
+    uploadDate: '20251108'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p5/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p5/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p5/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p5/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p5/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p5/1080/playlist.m3u8?aver=2
+  - id: 189-86_s1_p6
+    number: 6
+    title: "\0\0第6話 不思議な三角関係です。"
+    description: 笑顔のたえない職場です。 - 第6話 不思議な三角関係です。等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1422
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20251115'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p6/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p6/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p6/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p6/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p6/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p6/1080/playlist.m3u8?aver=1
+  - id: 189-86_s1_p500
+    number: 500
+    title: PV【10/11より毎週土曜22:30〜配信】
+    description: 笑顔のたえない職場です。 - PV【10/11より毎週土曜22:30〜配信】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 85
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/189-86_s1_p500/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/189-86_s1_p500/1080/playlist.m3u8?aver=1
+    uploadDate: '20251006'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p500/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p500/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p500/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p500/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p500/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/189-86_s1_p500/1080/playlist.m3u8?aver=1
+- id: 11-73
+  title: 雨と君と
+  description: 'ずぶ濡れの帰り道、藤は少し変わった「犬」に出会う。
+
+    犬はフリップを使って「拾ってください」とアピールし、
+
+    藤に折り畳み傘を差し出す。
+
+    でもこの犬、変わっているというよりも……？
+
+
+    なんてことない毎日に現れたちょっとおかしな相棒
+
+    一緒に四季を感じながら
+
+    食べたり、おでかけしたり、おしゃべり(?)したり…
+
+
+    “あともうちょっと”がほっこり尊い
+
+    １人と１匹のたぶん、なかよしなふたり暮らし。'
+  url: https://abema.tv/video/title/11-73
+  thumbnailUrl: ''
+  totalEpisodes: 12
+  latestEpisodeNumber: 12
+  fetchedAt: '2025-11-08T23:18:49.485761'
+  updatedAt: '2025-11-08T23:18:49.485761'
+  episodes:
+  - id: 11-73_s1_p1
+    number: 1
+    title: 第1話 雨模様
+    description: 雨と君と - 第1話 雨模様等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p1/1080/playlist.m3u8?aver=1
+    uploadDate: '20250710'
+  - id: 11-73_s1_p2
+    number: 2
+    title: 第2話 西陽
+    description: 雨と君と - 第2話 西陽等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p2/1080/playlist.m3u8?aver=1
+    uploadDate: '20250717'
+  - id: 11-73_s1_p3
+    number: 3
+    title: 第3話 友達
+    description: 雨と君と - 第3話 友達等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p3/1080/playlist.m3u8?aver=1
+    uploadDate: '20250724'
+  - id: 11-73_s1_p4
+    number: 4
+    title: 第4話 夏祭り
+    description: 雨と君と - 第4話 夏祭り等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p4/1080/playlist.m3u8?aver=1
+    uploadDate: '20250731'
+  - id: 11-73_s1_p5
+    number: 5
+    title: 第5話 同じ月
+    description: 雨と君と - 第5話 同じ月等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1367
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p5/1080/playlist.m3u8?aver=1
+    uploadDate: '20250807'
+  - id: 11-73_s1_p6
+    number: 6
+    title: 第6話 猫と南瓜
+    description: 雨と君と - 第6話 猫と南瓜等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1367
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20250814'
+  - id: 11-73_s1_p7
+    number: 7
+    title: 第7話 なんでもない
+    description: 雨と君と - 第7話 なんでもない等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p7/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p7/1080/playlist.m3u8?aver=1
+    uploadDate: '20250821'
+  - id: 11-73_s1_p8
+    number: 8
+    title: 第8話 鳴き声
+    description: 雨と君と - 第8話 鳴き声等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p8/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p8/1080/playlist.m3u8?aver=1
+    uploadDate: '20250828'
+  - id: 11-73_s1_p9
+    number: 9
+    title: 第9話 秘密
+    description: 雨と君と - 第9話 秘密等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p9/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p9/1080/playlist.m3u8?aver=1
+    uploadDate: '20250904'
+  - id: 11-73_s1_p10
+    number: 10
+    title: 第10話 渡れない川
+    description: 雨と君と - 第10話 渡れない川等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p10/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p10/1080/playlist.m3u8?aver=1
+    uploadDate: '20250911'
+  - id: 11-73_s1_p11
+    number: 11
+    title: 第11話 新しいもの、古いもの
+    description: 雨と君と - 第11話 新しいもの、古いもの等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p11/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p11/1080/playlist.m3u8?aver=1
+    uploadDate: '20250918'
+  - id: 11-73_s1_p12
+    number: 12
+    title: 第12話 雨の音が聞こえる
+    description: 雨と君と - 第12話 雨の音が聞こえる等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1368
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/11-73_s1_p12/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/11-73_s1_p12/1080/playlist.m3u8?aver=1
+    uploadDate: '20250925'
+- id: 26-156
+  title: その着せ替え人形は恋をする
+  description: '雛人形の顔を作る、「頭師(かしらし)」を目指す男子高校生・五条 新菜(わかな)。
+
+    真面目で雛人形作りに一途な反面、同世代の流行には疎く、
+
+    中々クラスに馴染めずにいる。
+
+    そんな新菜にとって、いつもクラスの輪の中心にいる
+
+    人気者・喜多川 海夢(まりん)はまるで別世界の住人。
+
+
+    けれどある日、思わぬことをきっかけに、
+
+    海夢と秘密を共有することになって……！？
+
+    決して交わるはずのなかった2人の世界が、動き出す――！
+
+
+    『ヤングガンガン』（スクウェア・エニックス）にて
+
+    連載中・福田晋ーによる大人気原作を、
+
+    CloverWorksが待望のアニメ化！
+
+
+    豪華スタッフが贈る、コスキュン♡ストーリー！'
+  url: https://abema.tv/video/title/26-156
+  thumbnailUrl: ''
+  totalEpisodes: 24
+  latestEpisodeNumber: 24
+  fetchedAt: '2025-11-08T23:19:21.658335'
+  updatedAt: '2025-11-09T00:11:53.109510'
+  episodes:
+  - id: 26-156_s1_p1
+    number: 1
+    title: '#1 自分とは真逆の世界で生きている人'
+    description: 'その着せ替え人形は恋をする - #1 自分とは真逆の世界で生きている人等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-156_s1_p1/1080/playlist.m3u8?aver=2
+    uploadDate: '20230122'
+  - id: 26-156_s1_p2
+    number: 2
+    title: '#2 さっそく、しよっか？'
+    description: 'その着せ替え人形は恋をする - #2 さっそく、しよっか？等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p2/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p3
+    number: 3
+    title: '#3 じゃ、付き合っちゃう？'
+    description: 'その着せ替え人形は恋をする - #3 じゃ、付き合っちゃう？等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p3/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p4
+    number: 4
+    title: '#4 これ、彼女のとか？'
+    description: 'その着せ替え人形は恋をする - #4 これ、彼女のとか？等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p4/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p5
+    number: 5
+    title: '#5 この中で一番いい乳袋だからじゃん？'
+    description: 'その着せ替え人形は恋をする - #5 この中で一番いい乳袋だからじゃん？等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p5/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p6
+    number: 6
+    title: '#6 マ！？'
+    description: 'その着せ替え人形は恋をする - #6 マ！？等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p6/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p7
+    number: 7
+    title: '#7 しゅきぴとおうちデートやばっ'
+    description: 'その着せ替え人形は恋をする - #7 しゅきぴとおうちデートやばっ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p7/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p8
+    number: 8
+    title: '#8 逆光、オススメです'
+    description: 'その着せ替え人形は恋をする - #8 逆光、オススメです等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p8/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p9
+    number: 9
+    title: '#9 写真を見たら色々あったからです'
+    description: 'その着せ替え人形は恋をする - #9 写真を見たら色々あったからです等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p9/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p10
+    number: 10
+    title: '#10 誰にでも色々あるんです'
+    description: 'その着せ替え人形は恋をする - #10 誰にでも色々あるんです等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p10/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p11
+    number: 11
+    title: '#11 俺は今、ラブホテルにいます'
+    description: 'その着せ替え人形は恋をする - #11 俺は今、ラブホテルにいます等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p11/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s1_p12
+    number: 12
+    title: '#12 その着せ替え人形は恋をする'
+    description: 'その着せ替え人形は恋をする - #12 その着せ替え人形は恋をする等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。'
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s1_p12/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20230122'
+  - id: 26-156_s2_p13
+    number: 13
+    title: "\0第13話 五条新菜 15歳 思春期"
+    description: その着せ替え人形は恋をする - 第13話 五条新菜 15歳 思春期等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p13/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/26-156_s2_p13/1080/playlist.m3u8?aver=1
+    uploadDate: '20250708'
+  - id: 26-156_s2_p14
+    number: 14
+    title: 第14話 おっぱいは装備できるから
+    description: その着せ替え人形は恋をする - 第14話 おっぱいは装備できるから等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p14/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250715'
+  - id: 26-156_s2_p15
+    number: 15
+    title: 第15話 日常パートめっちゃすこ〰〰〰〰♡♡♡
+    description: その着せ替え人形は恋をする - 第15話 日常パートめっちゃすこ〰〰〰〰♡♡♡等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p15/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250722'
+  - id: 26-156_s2_p16
+    number: 16
+    title: 第16話 あたしの体の事、全部知ってるんだ
+    description: その着せ替え人形は恋をする - 第16話 あたしの体の事、全部知ってるんだ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p16/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250729'
+  - id: 26-156_s2_p17
+    number: 17
+    title: 第17話 8億
+    description: その着せ替え人形は恋をする - 第17話 8億等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p17/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250805'
+  - id: 26-156_s2_p18
+    number: 18
+    title: "\0第18話 俺が絶対に 俺の手で"
+    description: その着せ替え人形は恋をする - 第18話 俺が絶対に 俺の手で等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p18/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250812'
+  - id: 26-156_s2_p19
+    number: 19
+    title: 第19話 思い出刻むぜ！
+    description: その着せ替え人形は恋をする - 第19話 思い出刻むぜ！等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p19/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250819'
+  - id: 26-156_s2_p20
+    number: 20
+    title: 第20話 感謝の伝え方が課金しか思い付かない
+    description: その着せ替え人形は恋をする - 第20話 感謝の伝え方が課金しか思い付かない等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p20/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250826'
+  - id: 26-156_s2_p21
+    number: 21
+    title: 第21話 俺 今夜寝るつもりないので
+    description: その着せ替え人形は恋をする - 第21話 俺 今夜寝るつもりないので等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p21/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250902'
+  - id: 26-156_s2_p22
+    number: 22
+    title: 第22話 今から全部するって事⁉
+    description: その着せ替え人形は恋をする - 第22話 今から全部するって事⁉等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p22/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250909'
+  - id: 26-156_s2_p23
+    number: 23
+    title: 第23話 自分の人生には良い事なんて起こらないと思ってた
+    description: その着せ替え人形は恋をする - 第23話 自分の人生には良い事なんて起こらないと思ってた等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p23/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250916'
+  - id: 26-156_s2_p24
+    number: 24
+    title: 第24話 Dear My Dress-Up Darling
+    description: その着せ替え人形は恋をする - 第24話 Dear My Dress-Up Darling等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/26-156_s2_p24/thumb002.png
+    isDownloadable: false
+    isPremiumOnly: true
+    downloadUrl: null
+    uploadDate: '20250923'
+- id: 25-292
+  title: フードコートで、また明日。
+  description: '話しかけ難い雰囲気 を漂わせる和田と、
+
+    ギャルのような見た目で周囲から恐れられている山本。
+
+    クラスではそれぞれ一人きりで過ごす和田と山本は、
+
+    別々の高校に通っているものの、
+
+    毎日のようにショッピングセンターのフードコートに集まっている。
+
+    と言っても、何をするでもなく、ただただ、たわいもない話をして、
+
+    笑ったり、泣いたり、怒ったり…… 。
+
+    そんな二人のゆるい放課後を、少し覗いてみませんか？'
+  url: https://abema.tv/video/title/25-292
+  thumbnailUrl: ''
+  totalEpisodes: 12
+  latestEpisodeNumber: 6
+  fetchedAt: '2025-11-08T23:20:08.259968'
+  updatedAt: '2025-11-08T23:20:08.259968'
+  episodes:
+  - id: 25-292_s1_p1
+    number: 1
+    title: 第1話『WADA1234』『ナスカ地上絵　宇宙人』『psibola』『Change before you have to』
+    description: フードコートで、また明日。 - 第1話『WADA1234』『ナスカ地上絵 宇宙人』『psibola』『Change before
+      you have to』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p1/1080/playlist.m3u8?aver=2
+    uploadDate: '20250707'
+  - id: 25-292_s1_p2
+    number: 2
+    title: 第2話『確率機』『シングル二倍』『夢芝居』『ぼくのワンだーらいふ』
+    description: フードコートで、また明日。 - 第2話『確率機』『シングル二倍』『夢芝居』『ぼくのワンだーらいふ』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p2/1080/playlist.m3u8?aver=1
+    uploadDate: '20250714'
+  - id: 25-292_s1_p3
+    number: 3
+    title: 第3話『乳力』『ナオキン』『姉妹』『十月二十一日』
+    description: フードコートで、また明日。 - 第3話『乳力』『ナオキン』『姉妹』『十月二十一日』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p3/1080/playlist.m3u8?aver=1
+    uploadDate: '20250721'
+  - id: 25-292_s1_p4
+    number: 4
+    title: 第4話『キャラメルリボン』『別方向だけど』『臭くはない』『一般的和田』
+    description: フードコートで、また明日。 - 第4話『キャラメルリボン』『別方向だけど』『臭くはない』『一般的和田』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p4/1080/playlist.m3u8?aver=1
+    uploadDate: '20250728'
+  - id: 25-292_s1_p5
+    number: 5
+    title: 第5話『SSR』『ウザい』『荒浜海水浴場』
+    description: フードコートで、また明日。 - 第5話『SSR』『ウザい』『荒浜海水浴場』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p5/1080/playlist.m3u8?aver=1
+    uploadDate: '20250804'
+  - id: 25-292_s1_p6
+    number: 6
+    title: 第6話『ランディ』『ゴリラテープ』『厄介』『フードコートで、また明日。』
+    description: フードコートで、また明日。 - 第6話『ランディ』『ゴリラテープ』『厄介』『フードコートで、また明日。』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20250811'
+  - id: 25-292_s1_p101
+    number: 101
+    title: 第1話アンコール『WADA1234』『ナスカ地上絵　宇宙人』『psibola』『Change before you have to』
+    description: フードコートで、また明日。 - 第1話アンコール『WADA1234』『ナスカ地上絵 宇宙人』『psibola』『Change before
+      you have to』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p101/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p101/1080/playlist.m3u8?aver=1
+    uploadDate: '20250818'
+  - id: 25-292_s1_p102
+    number: 102
+    title: 第2話アンコール『確率機』『シングル二倍』『夢芝居』『ぼくのワンだーらいふ』
+    description: フードコートで、また明日。 - 第2話アンコール『確率機』『シングル二倍』『夢芝居』『ぼくのワンだーらいふ』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p102/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p102/1080/playlist.m3u8?aver=1
+    uploadDate: '20250825'
+  - id: 25-292_s1_p103
+    number: 103
+    title: 第3話アンコール『乳力』『ナオキン』『姉妹』『十月二十一日』
+    description: フードコートで、また明日。 - 第3話アンコール『乳力』『ナオキン』『姉妹』『十月二十一日』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p103/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p103/1080/playlist.m3u8?aver=1
+    uploadDate: '20250901'
+  - id: 25-292_s1_p104
+    number: 104
+    title: 第4話アンコール『キャラメルリボン』『別方向だけど』『臭くはない』『一般的和田』
+    description: フードコートで、また明日。 - 第4話アンコール『キャラメルリボン』『別方向だけど』『臭くはない』『一般的和田』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p104/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p104/1080/playlist.m3u8?aver=1
+    uploadDate: '20250908'
+  - id: 25-292_s1_p105
+    number: 105
+    title: 第5話アンコール『SSR』『ウザい』『荒浜海水浴場』
+    description: フードコートで、また明日。 - 第5話アンコール『SSR』『ウザい』『荒浜海水浴場』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p105/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p105/1080/playlist.m3u8?aver=1
+    uploadDate: '20250915'
+  - id: 25-292_s1_p106
+    number: 106
+    title: 第6話アンコール『ランディ』『ゴリラテープ』『厄介』『フードコートで、また明日。』
+    description: フードコートで、また明日。 - 第6話アンコール『ランディ』『ゴリラテープ』『厄介』『フードコートで、また明日。』等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/25-292_s1_p106/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/25-292_s1_p106/1080/playlist.m3u8?aver=1
+    uploadDate: '20250922'
+- id: 13-201
+  title: 3年Z組銀八先生
+  description: だらしなく着た白衣、銀髪の天然パーマに死んだ魚のような目がトレードマークの高校教師・坂田銀八。彼が担任する「銀魂高校 3年Z組」は、ドルオタ、ゲロイン、ストーカー、マヨラー、ドＳ、ヤンキー（以下略）なぜかクセが強めな生徒ばかりが集められ、毎日がトラブル三昧！
+    滅茶苦茶なことばかりの日々に銀八は頭を抱えて――なんてことはなく、とぼけた顔で問題を解決したりしなかったり。そして個性豊かな生徒たちは、さまざまな経験を通してやがて一つになって――なんてことはやっぱりなく、みんな好き勝手に暴れ回る！
+    おいィィィ！ 3Z、自由すぎるんですけどォォォォ!? いつもやる気がなさそうで何を考えているのかわからないけれど、肝心な時にはビシッと決める。そんな型破りな教師と、3Zの生徒たちによる笑いあり、涙あり、なんでもありなスクールライフ・コメディ！
+    陽キャも陰キャも関係ない、銀魂流の青春がここにある!!
+  url: https://abema.tv/video/title/13-201
+  thumbnailUrl: ''
+  totalEpisodes: 8
+  latestEpisodeNumber: 7
+  fetchedAt: '2025-11-08T23:21:16.250392'
+  updatedAt: '2025-11-19T00:17:34.363886'
+  episodes:
+  - id: 13-201_s1_p1
+    number: 1
+    title: 第1講 100点とらなくていい70点でいいって塾の先生言うよね
+    description: 3年Z組銀八先生 - 第1講 100点とらなくていい70点でいいって塾の先生言うよね等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p1/1080/playlist.m3u8?aver=3
+    uploadDate: '20251006'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p1/180/playlist.m3u8?aver=3
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p1/240/playlist.m3u8?aver=3
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p1/360/playlist.m3u8?aver=3
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p1/480/playlist.m3u8?aver=3
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p1/720/playlist.m3u8?aver=3
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p1/1080/playlist.m3u8?aver=3
+  - id: 13-201_s1_p2
+    number: 2
+    title: 第2講 見た目が変わっても中身は変わらないのが人間／テストはいくつになっても嫌なもの／人に相談する時って、たいがい相談する前に自分の中でもう答えが出てる
+    description: 3年Z組銀八先生 - 第2講 見た目が変わっても中身は変わらないのが人間／テストはいくつになっても嫌なもの／人に相談する時って、たいがい相談する前に自分の中でもう答えが出てる等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p2/1080/playlist.m3u8?aver=2
+    uploadDate: '20251013'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p2/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p2/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p2/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p2/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p2/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p2/1080/playlist.m3u8?aver=2
+  - id: 13-201_s1_p3
+    number: 3
+    title: 第3講 普段喋らない奴が突然ボケるとリアクションに困るが困ったところでスルーできない以上笑うしかない
+    description: 3年Z組銀八先生 - 第3講 普段喋らない奴が突然ボケるとリアクションに困るが困ったところでスルーできない以上笑うしかない等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p3/1080/playlist.m3u8?aver=1
+    uploadDate: '20251020'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p3/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p3/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p3/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p3/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p3/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p3/1080/playlist.m3u8?aver=1
+  - id: 13-201_s1_p4
+    number: 4
+    title: 第4講 恐怖と笑いは紙一重
+    description: 3年Z組銀八先生 - 第4講 恐怖と笑いは紙一重等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p4/1080/playlist.m3u8?aver=1
+    uploadDate: '20251027'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p4/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p4/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p4/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p4/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p4/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p4/1080/playlist.m3u8?aver=1
+  - id: 13-201_s1_p5
+    number: 5
+    title: 第5講 トラマナ使える奴がパーティーにいると、それはそれで便利
+    description: 3年Z組銀八先生 - 第5講 トラマナ使える奴がパーティーにいると、それはそれで便利等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p5/1080/playlist.m3u8?aver=1
+    uploadDate: '20251103'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p5/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p5/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p5/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p5/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p5/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p5/1080/playlist.m3u8?aver=1
+  - id: 13-201_s1_p6
+    number: 6
+    title: 第6講 お父さんの仕事の都合で転校とか、ちょっとだけ憧れる
+    description: 3年Z組銀八先生 - 第6講 お父さんの仕事の都合で転校とか、ちょっとだけ憧れる等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p6/1080/playlist.m3u8?aver=1
+    uploadDate: '20251110'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p6/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p6/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p6/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p6/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p6/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p6/1080/playlist.m3u8?aver=1
+  - id: 13-201_s1_p7
+    number: 7
+    title: 第7講 昔のジャンプを読みふけっていたせいで大掃除がはかどりませんでした
+    description: 3年Z組銀八先生 - 第7講 昔のジャンプを読みふけっていたせいで大掃除がはかどりませんでした等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1451
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p7/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p7/1080/playlist.m3u8?aver=1
+    uploadDate: '20251117'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p7/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p7/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p7/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p7/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p7/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p7/1080/playlist.m3u8?aver=1
+  - id: 13-201_s1_p500
+    number: 500
+    title: PV【10/6より毎週月曜24:30〜配信】
+    description: 3年Z組銀八先生 - PV【10/6より毎週月曜24:30〜配信】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 111
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/13-201_s1_p500/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/13-201_s1_p500/1080/playlist.m3u8?aver=1
+    uploadDate: '20250930'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p500/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p500/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p500/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p500/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p500/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/13-201_s1_p500/1080/playlist.m3u8?aver=1
+- id: 19-86
+  title: SPY×FAMILY
+  description: '人はみな　誰にも見せぬ自分を　持っている――
+
+
+    世界各国が水面下で熾烈な情報戦を繰り広げていた時代。
+
+    東国""オスタニア""と西国""ウェスタリス""は、十数年間にわたる冷戦状態にあった。
+
+
+    西国の情報局対東課〈WISE〉""ワイズ""所属である凄腕スパイの〈黄昏〉""たそがれ""は、東西平和を脅かす危険人物、東国の国家統一党総裁ドノバン・デズモンドの動向を探るため、ある極秘任務を課せられる。
+
+
+    その名も、オペレーション〈梟〉""ストリクス""。
+
+
+    内容は、“一週間以内に家族を作り、デズモンドの息子が通う名門校の懇親会に潜入せよ”。
+
+
+    〈黄昏〉は、精神科医ロイド・フォージャーに扮し、家族を作ることに。
+
+
+    だが、彼が出会った娘・アーニャは心を読むことができる超能力者、妻・ヨルは殺し屋だった！
+
+    3人の利害が一致したことで、お互いの正体を隠しながら共に暮らすこととなる。
+
+
+    ハプニング連続の仮初めの家族に、
+
+    世界の平和は託された――。'
+  url: https://abema.tv/video/title/19-86
+  thumbnailUrl: ''
+  totalEpisodes: 45
+  latestEpisodeNumber: 44
+  fetchedAt: '2025-11-17T00:01:06.795494'
+  updatedAt: '2025-11-17T00:01:06.795494'
+  episodes:
+  - id: 19-86_s1_p1
+    number: 1
+    title: "【MISSION：1】オペ\0\0レーション〈梟（ストリクス）〉"
+    description: SPY×FAMILY - 【MISSION：1】オペレーション〈梟（ストリクス）〉等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p1/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p1/1080/playlist.m3u8?aver=2
+    uploadDate: '20220409'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p1/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p1/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p1/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p1/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p1/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p1/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p2
+    number: 2
+    title: 【MISSION：2】妻役を確保せよ
+    description: SPY×FAMILY - 【MISSION：2】妻役を確保せよ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p2/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p2/1080/playlist.m3u8?aver=4
+    uploadDate: '20220416'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p2/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p2/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p2/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p2/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p2/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p2/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p3
+    number: 3
+    title: 【MISSION：3】受験対策をせよ
+    description: SPY×FAMILY - 【MISSION：3】受験対策をせよ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p3/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p3/1080/playlist.m3u8?aver=6
+    uploadDate: '20220423'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p3/180/playlist.m3u8?aver=6
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p3/240/playlist.m3u8?aver=6
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p3/360/playlist.m3u8?aver=6
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p3/480/playlist.m3u8?aver=6
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p3/720/playlist.m3u8?aver=6
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p3/1080/playlist.m3u8?aver=6
+  - id: 19-86_s1_p4
+    number: 4
+    title: 【MISSION：4】名門校面接試験
+    description: SPY×FAMILY - 【MISSION：4】名門校面接試験等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p4/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p4/1080/playlist.m3u8?aver=4
+    uploadDate: '20220430'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p4/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p4/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p4/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p4/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p4/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p4/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p5
+    number: 5
+    title: 【MISSION：5】合否の行方
+    description: SPY×FAMILY - 【MISSION：5】合否の行方等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p5/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p5/1080/playlist.m3u8?aver=6
+    uploadDate: '20220507'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p5/180/playlist.m3u8?aver=6
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p5/240/playlist.m3u8?aver=6
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p5/360/playlist.m3u8?aver=6
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p5/480/playlist.m3u8?aver=6
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p5/720/playlist.m3u8?aver=6
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p5/1080/playlist.m3u8?aver=6
+  - id: 19-86_s1_p6
+    number: 6
+    title: 【MISSION：6】ナカヨシ作戦
+    description: SPY×FAMILY - 【MISSION：6】ナカヨシ作戦等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p6/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p6/1080/playlist.m3u8?aver=4
+    uploadDate: '20220514'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p6/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p6/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p6/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p6/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p6/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p6/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p7
+    number: 7
+    title: 【MISSION：7】標的(ターゲット)の次男
+    description: SPY×FAMILY - 【MISSION：7】標的(ターゲット)の次男等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p7/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p7/1080/playlist.m3u8?aver=4
+    uploadDate: '20220514'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p7/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p7/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p7/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p7/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p7/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p7/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p8
+    number: 8
+    title: 【MISSION：8】対秘密警察偽装作戦
+    description: SPY×FAMILY - 【MISSION：8】対秘密警察偽装作戦等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p8/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p8/1080/playlist.m3u8?aver=4
+    uploadDate: '20220528'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p8/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p8/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p8/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p8/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p8/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p8/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p9
+    number: 9
+    title: 【MISSION：9】ラブラブを見せつけよ
+    description: SPY×FAMILY - 【MISSION：9】ラブラブを見せつけよ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p9/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p9/1080/playlist.m3u8?aver=4
+    uploadDate: '20220604'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p9/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p9/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p9/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p9/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p9/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p9/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p10
+    number: 10
+    title: 【MISSION：10】ドッジボール大作戦
+    description: SPY×FAMILY - 【MISSION：10】ドッジボール大作戦等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p10/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p10/1080/playlist.m3u8?aver=4
+    uploadDate: '20220611'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p10/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p10/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p10/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p10/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p10/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p10/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p11
+    number: 11
+    title: 【MISSION：11】〈星(ステラ)〉
+    description: SPY×FAMILY - 【MISSION：11】〈星(ステラ)〉等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p11/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p11/1080/playlist.m3u8?aver=4
+    uploadDate: '20220618'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p11/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p11/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p11/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p11/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p11/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p11/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p12
+    number: 12
+    title: 【MISSION：12】ペンギンパーク
+    description: SPY×FAMILY - 【MISSION：12】ペンギンパーク等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1450
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p12/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p12/1080/playlist.m3u8?aver=4
+    uploadDate: '20220625'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p12/180/playlist.m3u8?aver=4
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p12/240/playlist.m3u8?aver=4
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p12/360/playlist.m3u8?aver=4
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p12/480/playlist.m3u8?aver=4
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p12/720/playlist.m3u8?aver=4
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p12/1080/playlist.m3u8?aver=4
+  - id: 19-86_s1_p13
+    number: 13
+    title: "【MISSION：13】プロジェクト〈アップル\0\0〉"
+    description: SPY×FAMILY - 【MISSION：13】プロジェクト〈アップル〉等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p13/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p13/1080/playlist.m3u8?aver=2
+    uploadDate: '20221001'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p13/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p13/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p13/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p13/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p13/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p13/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p14
+    number: 14
+    title: 【MISSION：14】時限爆弾を解除せよ
+    description: SPY×FAMILY - 【MISSION：14】時限爆弾を解除せよ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p14/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p14/1080/playlist.m3u8?aver=2
+    uploadDate: '20221008'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p14/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p14/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p14/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p14/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p14/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p14/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p15
+    number: 15
+    title: 【MISSION：15】新しい家族
+    description: SPY×FAMILY - 【MISSION：15】新しい家族等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p15/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p15/1080/playlist.m3u8?aver=2
+    uploadDate: '20221015'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p15/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p15/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p15/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p15/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p15/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p15/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p16
+    number: 16
+    title: 【MISSION：16】ヨル’sキッチン／情報屋の恋愛大作戦
+    description: SPY×FAMILY - 【MISSION：16】ヨル’sキッチン／情報屋の恋愛大作戦等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p16/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p16/1080/playlist.m3u8?aver=2
+    uploadDate: '20221022'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p16/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p16/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p16/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p16/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p16/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p16/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p17
+    number: 17
+    title: 【MISSION：17】ぐりほんさくせんを決行せよ／〈鋼鉄の淑女(フルメタル・レディ)〉／オムライス♡
+    description: SPY×FAMILY - 【MISSION：17】ぐりほんさくせんを決行せよ／〈鋼鉄の淑女(フルメタル・レディ)〉／オムライス♡等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p17/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p17/1080/playlist.m3u8?aver=2
+    uploadDate: '20221029'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p17/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p17/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p17/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p17/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p17/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p17/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p18
+    number: 18
+    title: "【MISSION：18】家庭\0教師の叔父／〈東雲(しののめ)〉"
+    description: SPY×FAMILY - 【MISSION：18】家庭教師の叔父／〈東雲(しののめ)〉等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1450
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p18/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p18/1080/playlist.m3u8?aver=2
+    uploadDate: '20221105'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p18/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p18/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p18/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p18/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p18/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p18/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p19
+    number: 19
+    title: "【MISSION：19\0\0】デズモンドへの復讐計画／母、風になる"
+    description: SPY×FAMILY - 【MISSION：19】デズモンドへの復讐計画／母、風になる等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p19/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p19/1080/playlist.m3u8?aver=2
+    uploadDate: '20221112'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p19/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p19/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p19/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p19/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p19/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p19/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p20
+    number: 20
+    title: 【MISSION：20】総合病院を調査せよ／難解な暗号を解読せよ
+    description: SPY×FAMILY - 【MISSION：20】総合病院を調査せよ／難解な暗号を解読せよ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p20/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p20/1080/playlist.m3u8?aver=2
+    uploadDate: '20221119'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p20/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p20/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p20/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p20/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p20/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p20/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p21
+    number: 21
+    title: 【MISSION：21】〈夜帷(とばり)〉／はじめての嫉妬
+    description: SPY×FAMILY - 【MISSION：21】〈夜帷(とばり)〉／はじめての嫉妬等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p21/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p21/1080/playlist.m3u8?aver=3
+    uploadDate: '20221126'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p21/180/playlist.m3u8?aver=3
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p21/240/playlist.m3u8?aver=3
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p21/360/playlist.m3u8?aver=3
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p21/480/playlist.m3u8?aver=3
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p21/720/playlist.m3u8?aver=3
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p21/1080/playlist.m3u8?aver=3
+  - id: 19-86_s1_p22
+    number: 22
+    title: 【MISSION：22】地下テニス大会 キャンベルドン
+    description: SPY×FAMILY - 【MISSION：22】地下テニス大会 キャンベルドン等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p22/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p22/1080/playlist.m3u8?aver=3
+    uploadDate: '20221203'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p22/180/playlist.m3u8?aver=3
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p22/240/playlist.m3u8?aver=3
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p22/360/playlist.m3u8?aver=3
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p22/480/playlist.m3u8?aver=3
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p22/720/playlist.m3u8?aver=3
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p22/1080/playlist.m3u8?aver=3
+  - id: 19-86_s1_p23
+    number: 23
+    title: 【MISSION：23】揺るがぬ軌道
+    description: SPY×FAMILY - 【MISSION：23】揺るがぬ軌道等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p23/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p23/1080/playlist.m3u8?aver=2
+    uploadDate: '20221210'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p23/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p23/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p23/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p23/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p23/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p23/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p24
+    number: 24
+    title: 【MISSION：24】母役と妻役 / ともだちとかいもの
+    description: SPY×FAMILY - 【MISSION：24】母役と妻役 / ともだちとかいもの等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1449
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p24/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p24/1080/playlist.m3u8?aver=2
+    uploadDate: '20221217'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p24/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p24/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p24/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p24/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p24/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p24/1080/playlist.m3u8?aver=2
+  - id: 19-86_s1_p25
+    number: 25
+    title: 【MISSION：25】接敵作戦(ファーストコンタクト)
+    description: SPY×FAMILY - 【MISSION：25】接敵作戦(ファーストコンタクト)等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1450
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s1_p25/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s1_p25/1080/playlist.m3u8?aver=2
+    uploadDate: '20221224'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p25/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p25/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p25/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p25/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p25/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s1_p25/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p26
+    number: 26
+    title: 【MISSION：26】ちちとははをびこうせよ
+    description: SPY×FAMILY - 【MISSION：26】ちちとははをびこうせよ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p26/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p26/1080/playlist.m3u8?aver=2
+    uploadDate: '20231007'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p26/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p26/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p26/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p26/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p26/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p26/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p27
+    number: 27
+    title: "【MISSION：27\0\0】ボンドの生存戦略／ダミアンの野外学習"
+    description: SPY×FAMILY - 【MISSION：27】ボンドの生存戦略／ダミアンの野外学習等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p27/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p27/1080/playlist.m3u8?aver=2
+    uploadDate: '20231014'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p27/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p27/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p27/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p27/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p27/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p27/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p28
+    number: 28
+    title: 【MISSION：28】任務と家族／華麗なるボンドマン／子ども心／目覚まし
+    description: SPY×FAMILY - 【MISSION：28】任務と家族／華麗なるボンドマン／子ども心／目覚まし等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p28/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p28/1080/playlist.m3u8?aver=2
+    uploadDate: '20231021'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p28/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p28/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p28/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p28/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p28/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p28/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p29
+    number: 29
+    title: "【MISSION：29】知恵の\0\0甘味／情報屋の恋愛大作戦Ⅱ"
+    description: SPY×FAMILY - 【MISSION：29】知恵の甘味／情報屋の恋愛大作戦Ⅱ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p29/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p29/1080/playlist.m3u8?aver=2
+    uploadDate: '20231028'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p29/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p29/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p29/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p29/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p29/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p29/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p30
+    number: 30
+    title: 【MISSION：30】越境作戦
+    description: SPY×FAMILY - 【MISSION：30】越境作戦等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p30/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p30/1080/playlist.m3u8?aver=2
+    uploadDate: '20231104'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p30/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p30/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p30/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p30/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p30/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p30/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p31
+    number: 31
+    title: 【MISSION：31】戦慄の豪華客船
+    description: SPY×FAMILY - 【MISSION：31】戦慄の豪華客船等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p31/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p31/1080/playlist.m3u8?aver=2
+    uploadDate: '20231111'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p31/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p31/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p31/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p31/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p31/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p31/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p32
+    number: 32
+    title: 【MISSION：32】誰がための任務
+    description: SPY×FAMILY - 【MISSION：32】誰がための任務等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p32/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p32/1080/playlist.m3u8?aver=2
+    uploadDate: '20231118'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p32/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p32/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p32/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p32/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p32/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p32/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p33
+    number: 33
+    title: 【MISSION：33】船上の交響曲（シンフォニー）／姉のハーブティー
+    description: SPY×FAMILY - 【MISSION：33】船上の交響曲（シンフォニー）／姉のハーブティー等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p33/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p33/1080/playlist.m3u8?aver=3
+    uploadDate: '20231125'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p33/180/playlist.m3u8?aver=3
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p33/240/playlist.m3u8?aver=3
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p33/360/playlist.m3u8?aver=3
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p33/480/playlist.m3u8?aver=3
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p33/720/playlist.m3u8?aver=3
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p33/1080/playlist.m3u8?aver=3
+  - id: 19-86_s2_p34
+    number: 34
+    title: 【MISSION：34】未来を繋ぐ手
+    description: SPY×FAMILY - 【MISSION：34】未来を繋ぐ手等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p34/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p34/1080/playlist.m3u8?aver=2
+    uploadDate: '20231202'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p34/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p34/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p34/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p34/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p34/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p34/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p35
+    number: 35
+    title: "【MISSION：35】リゾートを満喫\0\0せよ／休暇自慢"
+    description: SPY×FAMILY - 【MISSION：35】リゾートを満喫せよ／休暇自慢等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p35/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p35/1080/playlist.m3u8?aver=2
+    uploadDate: '20231209'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p35/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p35/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p35/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p35/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p35/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p35/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p36
+    number: 36
+    title: "【MISSION：36】バーリ\0\0ント・ラブ／〈夜帷〉の日常"
+    description: SPY×FAMILY - 【MISSION：36】バーリント・ラブ／〈夜帷〉の日常等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p36/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p36/1080/playlist.m3u8?aver=2
+    uploadDate: '20231216'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p36/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p36/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p36/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p36/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p36/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p36/1080/playlist.m3u8?aver=2
+  - id: 19-86_s2_p37
+    number: 37
+    title: 【MISSION：37】家族の一員
+    description: SPY×FAMILY - 【MISSION：37】家族の一員等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s2_p37/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s2_p37/1080/playlist.m3u8?aver=2
+    uploadDate: '20231223'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p37/180/playlist.m3u8?aver=2
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p37/240/playlist.m3u8?aver=2
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p37/360/playlist.m3u8?aver=2
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p37/480/playlist.m3u8?aver=2
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p37/720/playlist.m3u8?aver=2
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s2_p37/1080/playlist.m3u8?aver=2
+  - id: 19-86_s3_p38
+    number: 38
+    title: 【MISSION:38】バーリント・パニック／情報屋と〈夜帷（とばり）〉
+    description: SPY×FAMILY - 【MISSION:38】バーリント・パニック／情報屋と〈夜帷（とばり）〉等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p38/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p38/1080/playlist.m3u8?aver=1
+    uploadDate: '20251004'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p38/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p38/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p38/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p38/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p38/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p38/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p39
+    number: 39
+    title: 【MISSION:39】〈雷（トニト）〉を回避せよ／■■■■の記憶Ⅰ
+    description: SPY×FAMILY - 【MISSION:39】〈雷（トニト）〉を回避せよ／■■■■の記憶Ⅰ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p39/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p39/1080/playlist.m3u8?aver=1
+    uploadDate: '20251011'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p39/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p39/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p39/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p39/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p39/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p39/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p40
+    number: 40
+    title: 【MISSION:40】■■■■の記憶Ⅱ
+    description: SPY×FAMILY - 【MISSION:40】■■■■の記憶Ⅱ等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p40/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p40/1080/playlist.m3u8?aver=1
+    uploadDate: '20251018'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p40/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p40/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p40/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p40/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p40/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p40/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p41
+    number: 41
+    title: 【MISSION:41】スキャンダルの裏側／インペリアル・スカラーへの道
+    description: SPY×FAMILY - 【MISSION:41】スキャンダルの裏側／インペリアル・スカラーへの道等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p41/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p41/1080/playlist.m3u8?aver=1
+    uploadDate: '20251025'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p41/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p41/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p41/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p41/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p41/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p41/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p42
+    number: 42
+    title: 【MISSION:42】ママ友作戦
+    description: SPY×FAMILY - 【MISSION:42】ママ友作戦等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p42/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p42/1080/playlist.m3u8?aver=1
+    uploadDate: '20251101'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p42/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p42/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p42/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p42/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p42/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p42/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p43
+    number: 43
+    title: "【MISSION:43】\0白い嫉妬 ／ イーデン校バスジャック事件"
+    description: SPY×FAMILY - 【MISSION:43】白い嫉妬 ／ イーデン校バスジャック事件等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1419
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p43/thumb002.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p43/1080/playlist.m3u8?aver=1
+    uploadDate: '20251108'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p43/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p43/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p43/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p43/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p43/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p43/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p44
+    number: 44
+    title: 【MISSION:44】
+    description: SPY×FAMILY - 【MISSION:44】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 1420
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p44/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p44/1080/playlist.m3u8?aver=1
+    uploadDate: '20251115'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p44/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p44/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p44/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p44/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p44/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p44/1080/playlist.m3u8?aver=1
+  - id: 19-86_s3_p500
+    number: 500
+    title: PV【10/4より毎週土曜23:30〜配信】
+    description: SPY×FAMILY - PV【10/4より毎週土曜23:30〜配信】等、今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実したアニメのラインナップを好きな時に何度でも楽しめます。また、ABEMAでは多彩な作品を無料で24時間どこでも視聴できます。
+    duration: 78
+    thumbnailUrl: https://image.p-c2-x.abema-tv.com/image/programs/19-86_s3_p500/thumb001.png
+    isDownloadable: true
+    isPremiumOnly: false
+    downloadUrl: https://vod-abematv.akamaized.net/program/19-86_s3_p500/1080/playlist.m3u8?aver=1
+    uploadDate: '20250916'
+    formats:
+    - formatId: '184'
+      resolution: 320x180
+      tbr: 184.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p500/180/playlist.m3u8?aver=1
+    - formatId: '300'
+      resolution: 426x240
+      tbr: 300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p500/240/playlist.m3u8?aver=1
+    - formatId: '900'
+      resolution: 640x360
+      tbr: 900.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p500/360/playlist.m3u8?aver=1
+    - formatId: '1400'
+      resolution: 852x480
+      tbr: 1400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p500/480/playlist.m3u8?aver=1
+    - formatId: '2400'
+      resolution: 1280x720
+      tbr: 2400.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p500/720/playlist.m3u8?aver=1
+    - formatId: '5300'
+      resolution: 1920x1080
+      tbr: 5300.0
+      url: https://vod-abematv.akamaized.net/program/19-86_s3_p500/1080/playlist.m3u8?aver=1
+lastUpdated: '2025-11-19T00:17:34.505400'

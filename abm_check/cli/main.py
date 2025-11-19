@@ -2,13 +2,11 @@
 import click
 import sys
 import logging
-from abm_check.infrastructure.fetcher import AbemaFetcher
 from abm_check.infrastructure.storage import ProgramStorage
 from abm_check.infrastructure.markdown import MarkdownGenerator
 from abm_check.infrastructure.updater import ProgramUpdater
 from abm_check.infrastructure.download_list import DownloadListGenerator
-from abm_check.domain.exceptions import AbmCheckError, InvalidProgramIdError
-from abm_check.utils.validation import validate_program_id
+from abm_check.domain.exceptions import AbmCheckError
 
 
 # Setup logging
@@ -53,26 +51,28 @@ def add(ctx: click.Context, program_id_or_url: str) -> None:
     """
     番組を追加
 
-    PROGRAM_ID_OR_URL: 番組ID (例: 26-249) または URL
+    PROGRAM_ID_OR_URL: 番組ID または URL (AbemaTV, TVer, ニコニコ動画対応)
     """
     logger = ctx.obj['logger']
     data_file = ctx.obj['data_file']
 
     try:
-        # Extract program ID from URL if needed
-        program_id = program_id_or_url
-        if 'abema.tv' in program_id_or_url:
-            program_id = program_id_or_url.split('/')[-1]
-
-        validate_program_id(program_id)
-
+        from abm_check.infrastructure.fetcher_factory import FetcherFactory
+        
+        logger.info(f"Analyzing URL/ID: {program_id_or_url}")
+        
+        # Create appropriate fetcher
+        factory = FetcherFactory()
+        fetcher, program_id = factory.create_fetcher(program_id_or_url)
+        
+        logger.info(f"Detected platform: {fetcher.__class__.__name__}")
         logger.info(f"Fetching program info: {program_id}")
 
         # Fetch program info
-        fetcher = AbemaFetcher()
         program = fetcher.fetch_program_info(program_id)
 
         logger.info(f"Program: {program.title}")
+        logger.info(f"Platform: {program.platform}")
         logger.info(f"Episodes: {program.total_episodes}")
 
         # Save to YAML
@@ -87,12 +87,16 @@ def add(ctx: click.Context, program_id_or_url: str) -> None:
 
         sys.exit(0)
 
+    except ValueError as e:
+        logger.error(f"Invalid URL/ID format: {e}")
+        sys.exit(1)
     except AbmCheckError as e:
         logger.error(f"Failed to add program: {e}")
         sys.exit(1)
     except Exception as e:
         logger.error(f"Unexpected error: {e}")
         sys.exit(1)
+
 
 
 @cli.command()
@@ -114,8 +118,16 @@ def list(ctx: click.Context) -> None:
 
         ctx.obj['program_list'] = sorted_programs
 
+        # Platform emoji mapping
+        platform_emoji = {
+            'abema': '📺',
+            'tver': '🎬',
+            'niconico': '🎮'
+        }
+
         for i, program in enumerate(sorted_programs, 1):
-            print(f"{i} {program.id} {program.title}")
+            emoji = platform_emoji.get(program.platform, '❓')
+            print(f"{i} {emoji} {program.id} {program.title}")
 
         sys.exit(0)
 

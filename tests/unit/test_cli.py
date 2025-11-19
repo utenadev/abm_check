@@ -14,14 +14,12 @@ def runner():
 # We patch all infrastructure classes used by the CLI commands
 @pytest.fixture(autouse=True)
 def mock_infra():
-    with patch('abm_check.cli.main.AbemaFetcher') as mf, \
-         patch('abm_check.cli.main.ProgramStorage') as ms, \
+    with patch('abm_check.cli.main.ProgramStorage') as ms, \
          patch('abm_check.cli.main.MarkdownGenerator') as mmg, \
          patch('abm_check.cli.main.ProgramUpdater') as mu, \
          patch('abm_check.cli.main.DownloadListGenerator') as mdlg:
 
         yield {
-            "fetcher": mf.return_value,
             "storage": ms.return_value,
             "md_gen": mmg.return_value,
             "updater": mu.return_value,
@@ -30,59 +28,66 @@ def mock_infra():
 
 def test_add_command_success(runner, mock_infra, create_program, create_episode):
     """Test the 'add' command for a successful case."""
-    program_id = "test-prog"
+    program_id = "26-249"
     mock_program = create_program(program_id, [create_episode("ep1", 1)], title="Test Program")
     
-    mock_infra["fetcher"].fetch_program_info.return_value = mock_program
-    
-    result = runner.invoke(cli, ['add', program_id])
-    
-    assert '[INFO] Fetching program info: test-prog' in result.output
-    mock_infra["fetcher"].fetch_program_info.assert_called_once_with(program_id)
-    mock_infra["storage"].save_program.assert_called_once_with(mock_program)
-    mock_infra["md_gen"].save_program_md.assert_called_once_with(mock_program)
-    assert result.exit_code == 0
+    with patch('abm_check.infrastructure.fetcher_factory.FetcherFactory.create_fetcher') as mock_create:
+        mock_fetcher = MagicMock()
+        mock_fetcher.fetch_program_info.return_value = mock_program
+        mock_create.return_value = (mock_fetcher, program_id)
+        
+        result = runner.invoke(cli, ['add', program_id])
+        
+        mock_fetcher.fetch_program_info.assert_called_once_with(program_id)
+        mock_infra["storage"].save_program.assert_called_once_with(mock_program)
+        mock_infra["md_gen"].save_program_md.assert_called_once_with(mock_program)
+        assert result.exit_code == 0
 
 def test_add_command_with_url(runner, mock_infra, create_program):
     """Test the 'add' command using a full URL."""
-    program_id = "test-prog-url"
+    program_id = "26-249"
     url = f"https://abema.tv/video/title/{program_id}"
     mock_program = create_program(program_id, [], title="URL Program")
     
-    mock_infra["fetcher"].fetch_program_info.return_value = mock_program
-    
-    result = runner.invoke(cli, ['add', url])
-    
-    mock_infra["fetcher"].fetch_program_info.assert_called_once_with(program_id)
-    assert result.exit_code == 0
+    with patch('abm_check.infrastructure.fetcher_factory.FetcherFactory.create_fetcher') as mock_create:
+        mock_fetcher = MagicMock()
+        mock_fetcher.fetch_program_info.return_value = mock_program
+        mock_create.return_value = (mock_fetcher, program_id)
+        
+        result = runner.invoke(cli, ['add', url])
+        
+        mock_fetcher.fetch_program_info.assert_called_once_with(program_id)
+        assert result.exit_code == 0
 
 def test_add_command_failure(runner, mock_infra):
     """Test the 'add' command when an error occurs."""
-    program_id = "error-prog"
-    mock_infra["fetcher"].fetch_program_info.side_effect = AbmCheckError("Fetch failed")
+    program_id = "26-249"
     
-    result = runner.invoke(cli, ['add', program_id])
-    
-    assert '[ERROR] Failed to add program: Fetch failed' in result.output
-    assert result.exit_code == 1
+    with patch('abm_check.infrastructure.fetcher_factory.FetcherFactory.create_fetcher') as mock_create:
+        mock_fetcher = MagicMock()
+        mock_fetcher.fetch_program_info.side_effect = AbmCheckError("Fetch failed")
+        mock_create.return_value = (mock_fetcher, program_id)
+        
+        result = runner.invoke(cli, ['add', program_id])
+        
+        assert '[ERROR] Failed to add program: Fetch failed' in result.output
+        assert result.exit_code == 1
 
 @pytest.mark.parametrize(
     "invalid_id",
     [
-        "../../etc/passwd",
-        "invalid!id",
-        "some/path",
-        " ",
-        "26-249;",
+        "https://unknown-site.com/invalid",
     ],
 )
 def test_add_command_invalid_id(runner, mock_infra, invalid_id):
     """Test the 'add' command with invalid program IDs."""
-    result = runner.invoke(cli, ['add', invalid_id])
-    
-    assert result.exit_code == 1
-    assert f"Failed to add program: Invalid program ID: {invalid_id}" in result.output
-    mock_infra["fetcher"].fetch_program_info.assert_not_called()
+    with patch('abm_check.infrastructure.fetcher_factory.FetcherFactory.create_fetcher') as mock_create:
+        mock_create.side_effect = ValueError("Invalid URL/ID")
+        
+        result = runner.invoke(cli, ['add', invalid_id])
+        
+        assert result.exit_code == 1
+        assert "Invalid URL/ID" in result.output
 
 
 def test_list_command_success(runner, mock_infra, create_program):
@@ -162,16 +167,20 @@ def test_update_all_programs_success(runner, mock_infra, create_program, create_
 
 def test_cli_with_data_file_option(runner, mock_infra, create_program, create_episode):
     """Test all commands with --data-file option."""
-    program_id = "test-data-file"
+    program_id = "26-249"
     custom_file = "custom_programs.yaml"
     mock_program = create_program(program_id, [create_episode("ep1", 1)], title="Test Program")
 
     # Test 'add' command with --data-file
-    mock_infra["fetcher"].fetch_program_info.return_value = mock_program
-    result = runner.invoke(cli, ['--data-file', custom_file, 'add', program_id])
-
-    # Check that the CLI output includes the custom file name
-    assert "custom_programs.yaml" in result.output
+    with patch('abm_check.infrastructure.fetcher_factory.FetcherFactory.create_fetcher') as mock_create:
+        mock_fetcher = MagicMock()
+        mock_fetcher.fetch_program_info.return_value = mock_program
+        mock_create.return_value = (mock_fetcher, program_id)
+        
+        result = runner.invoke(cli, ['--data-file', custom_file, 'add', program_id])
+        
+        # Check that the CLI output includes the custom file name
+        assert "custom_programs.yaml" in result.output
 
     # Test 'list' command with --data-file
     mock_infra["storage"].load_programs.return_value = [mock_program]
@@ -183,9 +192,10 @@ def test_cli_with_data_file_option(runner, mock_infra, create_program, create_ep
     mock_infra["storage"].reset_mock()
 
     # Test 'update' command with --data-file
-    from abm_check.infrastructure.updater import ProgramUpdater
+    from abm_check.infrastructure.updater import EpisodeDiff
     diff = EpisodeDiff(new_episodes=[create_episode("ep2", 2)], premium_to_free=[])
     mock_infra["updater"].update_program.return_value = diff
     mock_infra["storage"].find_program.return_value = mock_program
     result = runner.invoke(cli, ['--data-file', custom_file, 'update', program_id])
     assert result.exit_code == 0
+
