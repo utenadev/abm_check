@@ -12,8 +12,9 @@ QWEN.md
 .cache
 .qoder
 .qwen
-*.yaml
-*.yml
+# YAML configuration files (but keep programs data)
+abm_check.yaml
+!programs*.yaml
 output/
 # Python
 __pycache__/
