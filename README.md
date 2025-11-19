@@ -1,26 +1,32 @@
 # abm_check
 
-ABEMA番組情報管理ツール - yt-dlpを使ってABEMAの番組情報を取得・管理するCLIツール
+動画配信サービス番組情報管理ツール - yt-dlpを使って複数の動画配信サービスの番組情報を取得・管理するCLIツール
 
 ## 概要
 
-`abm_check`は、ABEMA.tvの番組情報を自動取得し、YAML形式でデータベース化、Markdown形式で可読性の高い番組情報を生成するPython製CLIツールです。
+`abm_check`は、**AbemaTV・TVer・ニコニコ動画**の番組情報を自動取得し、YAML形式でデータベース化、Markdown形式で可読性の高い番組情報を生成するPython製CLIツールです。
+
+### 対応プラットフォーム
+
+- 📺 **AbemaTV** - アニメ・ドラマなど
+- 🎬 **TVer** - 見逃し配信
+- 🎮 **ニコニコ動画** - チャンネル動画
 
 ### 主な機能
 
-- 📺 ABEMA番組の全エピソード情報を自動取得
-- 🔍 複数シーズンの自動検出（シーズン1が12話以上の場合、シーズン2以降も探索）
+- 📺 複数プラットフォームの番組情報を統一管理
+- 🔍 URLからプラットフォームを自動判定
 - 💾 YAML形式でのデータ永続化
 - 📝 Markdown形式での見やすい番組情報生成
 - 🆕 番組更新時の差分検出（新規エピソード、プレミアム→無料変更）
 - 📋 ダウンロード対象エピソードのURL一覧生成
-- 🔒 プレミアム限定エピソードの正確な判定
 - ⏰ cron等での自動実行に最適
 
 ## 必要要件
 
-- Python 3.8以上
+- Python 3.9以上
 - yt-dlp（インストール済み前提）
+- feedparser（ニコニコ動画用RSS解析）
 
 ## インストール
 
@@ -57,25 +63,31 @@ python -m abm_check <command>
 
 ### 番組を追加
 
-番組IDまたはURLを指定して番組情報を取得:
+番組URL（または ID）を指定して番組情報を取得します。プラットフォームは自動判定されます。
 
 ```bash
-# 番組IDで追加
+# AbemaTV
 abm_check add 26-156
-
-# URLで追加
 abm_check add https://abema.tv/video/title/26-156
+
+# TVer
+abm_check add sr12345
+abm_check add https://tver.jp/series/sr12345
+
+# ニコニコ動画
+abm_check add danime
+abm_check add https://ch.nicovideo.jp/danime
 ```
 
 実行すると:
 - `programs.yaml` - 番組データベース（YAML形式）
-- `{番組ID}/program.md` - 番組詳細情報（Markdown形式）
+- `output/{番組ID}/program.md` - 番組詳細情報（Markdown形式）
 
 が生成されます。
 
 ### 番組一覧を表示
 
-登録済みの番組一覧を表示:
+登録済みの番組一覧を表示（プラットフォーム絵文字付き）:
 
 ```bash
 abm_check list
@@ -83,8 +95,9 @@ abm_check list
 
 出力例:
 ```
-1 26-156 その着せ替え人形は恋をする
-2 26-253 最後にひとつだけお願いしてもよろしいでしょうか
+1 📺 26-156 その着せ替え人形は恋をする
+2 🎬 sr12345 機械じかけのマリィ
+3 🎮 danime dアニメストア ニコニコ支店
 ```
 
 ### 番組詳細を表示
@@ -148,15 +161,20 @@ abm_check version
 
 ### アーキテクチャ
 
-クリーンアーキテクチャを採用:
+クリーンアーキテクチャを採用し、プラットフォーム拡張が容易な設計:
 
 ```
 abm_check/
 ├── domain/          # ドメイン層（ビジネスロジック）
-│   ├── models.py    # データモデル（Program, Episode, VideoFormat）
+│   ├── models.py    # データモデル（Program, Episode）
 │   └── exceptions.py # カスタム例外
 ├── infrastructure/  # インフラ層（外部システム連携）
-│   ├── fetcher.py   # yt-dlpを使った番組情報取得
+│   ├── fetcher.py   # 基底Fetcherクラス
+│   ├── fetchers/    # プラットフォーム別Fetcher実装
+│   │   ├── __init__.py
+│   │   ├── tver.py      # TVerFetcher
+│   │   └── nico.py      # NicoFetcher (RSSベース)
+│   ├── fetcher_factory.py  # プラットフォーム自動判定
 │   ├── storage.py   # YAMLデータベース管理
 │   ├── markdown.py  # Markdown生成
 │   ├── updater.py   # 番組更新・差分検出
@@ -165,7 +183,15 @@ abm_check/
     └── main.py      # CLIコマンド実装
 ```
 
-### 複数シーズン検出ロジック
+### プラットフォーム自動判定
+
+`FetcherFactory`がURLやIDのパターンから自動的にプラットフォームを判定:
+
+- **AbemaTV**: `26-156` 形式のID、または `abema.tv/video/title/...`
+- **TVer**: `sr` で始まるID、または `tver.jp/series/...`
+- **ニコニコ動画**: チャンネル名、または `ch.nicovideo.jp/...`
+
+### AbemaTV: 複数シーズン検出ロジック
 
 ABEMAの番組は複数シーズンが存在する場合があります。`abm_check`は以下のロジックで自動検出します:
 
@@ -187,10 +213,22 @@ ABEMAの番組は複数シーズンが存在する場合があります。`abm_c
    - 全シーズンのエピソードを1つの番組データとして統合
    - 通し番号は各シーズンで継続（シーズン2の第1話は通し番号13話）
 
-例: `26-156`（その着せ替え人形は恋をする）
-- シーズン1: 12話（エピソード1-12）
-- シーズン2: 12話（エピソード13-24）
-- → 合計24話として取得・管理
+### ニコニコ動画: RSSベース取得
+
+ニコニコ動画チャンネルの情報はRSSフィード経由で取得します:
+
+1. **RSSフィード取得**
+   ```
+   https://ch.nicovideo.jp/{channel}/video?rss=2.0
+   ```
+   
+2. **動画ID抽出**
+   - RSSから動画ID（`so12345`, `sm12345`）を抽出
+   
+3. **詳細情報取得**
+   - 各動画IDに対して`yt-dlp`で詳細情報を取得
+   
+この方式により、サイト構造変更に強い安定した情報取得を実現しています。
 
 ### プレミアム判定ロジック
 
@@ -283,6 +321,7 @@ programs:
     latestEpisodeNumber: 12
     fetchedAt: "2025-01-08T12:00:00"
     updatedAt: "2025-01-08T15:30:00"
+    platform: "abema"  # 'abema', 'tver', 'niconico'
     episodes:
       - id: "26-156_s1_p1"
         number: 1
@@ -294,6 +333,7 @@ programs:
         isPremiumOnly: false
         downloadUrl: "https://..."
         uploadDate: "20230122"
+        expirationDate: null  # TVerの場合は配信終了日時
 lastUpdated: "2025-01-08T15:30:00"
 ```
 
