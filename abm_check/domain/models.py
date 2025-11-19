@@ -29,6 +29,8 @@ class Episode:
     download_url: Optional[str]
     formats: List[VideoFormat]
     upload_date: Optional[str]
+    expiration_date: Optional[datetime] = None
+
     
     def get_episode_url(self, program_id: str = None) -> str:
         """
@@ -59,3 +61,5 @@ class Program:
     episodes: List[Episode]
     fetched_at: datetime
     updated_at: datetime
+    platform: str = 'abema'  # 'abema', 'tver', 'niconico'
+

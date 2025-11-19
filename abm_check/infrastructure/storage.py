@@ -165,6 +165,7 @@ class ProgramStorage:
             'latestEpisodeNumber': program.latest_episode_number,
             'fetchedAt': program.fetched_at.isoformat(),
             'updatedAt': program.updated_at.isoformat(),
+            'platform': program.platform,
             'episodes': [self._episode_to_dict(ep) for ep in program.episodes]
         }
     
@@ -181,6 +182,7 @@ class ProgramStorage:
             'isPremiumOnly': episode.is_premium_only,
             'downloadUrl': episode.download_url,
             'uploadDate': episode.upload_date,
+            'expirationDate': episode.expiration_date.isoformat() if episode.expiration_date else None,
         }
         
         if episode.formats:
@@ -210,7 +212,8 @@ class ProgramStorage:
             latest_episode_number=data.get('latestEpisodeNumber', 0),
             episodes=episodes,
             fetched_at=datetime.fromisoformat(data['fetchedAt']),
-            updated_at=datetime.fromisoformat(data['updatedAt'])
+            updated_at=datetime.fromisoformat(data['updatedAt']),
+            platform=data.get('platform', 'abema')
         )
     
     def _dict_to_episode(self, data: dict) -> Episode:
@@ -238,5 +241,6 @@ class ProgramStorage:
             is_premium_only=data.get('isPremiumOnly', True),
             download_url=data.get('downloadUrl'),
             formats=formats,
-            upload_date=data.get('uploadDate')
+            upload_date=data.get('uploadDate'),
+            expiration_date=datetime.fromisoformat(data['expirationDate']) if data.get('expirationDate') else None
         )

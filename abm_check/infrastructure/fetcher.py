@@ -10,8 +10,10 @@ from abm_check.domain.exceptions import FetchError, SeasonDetectionError, YtdlpE
 from abm_check.config import get_config
 
 
-class AbemaFetcher:
-    """Fetch ABEMA program information using yt-dlp."""
+from abc import ABC, abstractmethod
+
+class BaseFetcher(ABC):
+    """Base class for program fetchers."""
     
     def __init__(self, config=None):
         """Initialize fetcher with configuration."""
@@ -19,6 +21,11 @@ class AbemaFetcher:
         self.cache_dir = Path(self.config.cache_dir)
         self.cache_dir.mkdir(parents=True, exist_ok=True)
     
+    @abstractmethod
+    def fetch_program_info(self, program_id: str) -> Program:
+        """Fetch program information."""
+        pass
+
     def _get_cache_path(self, program_id: str) -> Path:
         """Get the path for a program's cache file."""
         return self.cache_dir / f"{program_id}.json"
@@ -51,6 +58,13 @@ class AbemaFetcher:
         except Exception:
             # If saving fails, delete the partial/corrupted file
             cache_file.unlink(missing_ok=True)
+
+
+class AbemaFetcher(BaseFetcher):
+    """Fetch ABEMA program information using yt-dlp."""
+    
+    def __init__(self, config=None):
+        super().__init__(config)
 
     def fetch_program_info(self, program_id: str) -> Program:
         """
