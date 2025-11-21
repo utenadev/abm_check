@@ -3,14 +3,15 @@ from dataclasses import dataclass
 from typing import List, Optional
 from datetime import datetime
 from abm_check.domain.models import Program, Episode
-from abm_check.infrastructure.fetcher import AbemaFetcher
 from abm_check.infrastructure.storage import ProgramStorage
+from abm_check.infrastructure.fetcher_factory import FetcherFactory
+from abm_check.config import get_config
 
 
 @dataclass
 class EpisodeDiff:
     """Represents changes detected in episodes."""
-    
+
     new_episodes: List[Episode]
     premium_to_free: List[Episode]
 
@@ -19,49 +20,57 @@ class ProgramUpdater:
     """Handle program updates with diff detection."""
 
     def __init__(self, fetcher=None, storage=None, data_file=None):
-        self.fetcher = fetcher or AbemaFetcher()
+        self.fetcher = fetcher  # This will be used if provided, otherwise determined per program
         self.storage = storage or ProgramStorage(data_file=data_file)
+        self.fetcher_factory = FetcherFactory(config=get_config())
     
     def update_program(self, program_id: str) -> Optional[EpisodeDiff]:
         """
         Update a single program and detect changes.
-        
+
         Args:
             program_id: Program ID to update
-            
+
         Returns:
             EpisodeDiff if changes detected, None otherwise
         """
         old_program = self.storage.find_program(program_id)
         if not old_program:
             return None
-        
-        new_program = self.fetcher.fetch_program_info(program_id)
+
+        # Use provided fetcher if available, otherwise create one based on platform
+        if self.fetcher:
+            fetcher = self.fetcher
+        else:
+            # Create appropriate fetcher based on program platform
+            fetcher, _ = self.fetcher_factory.create_fetcher(old_program.url)
+
+        new_program = fetcher.fetch_program_info(program_id)
         new_program.fetched_at = old_program.fetched_at
         new_program.updated_at = datetime.now()
-        
+
         diff = self._detect_changes(old_program, new_program)
-        
+
         if diff.new_episodes or diff.premium_to_free:
             self.storage.save_program(new_program)
-        
+
         return diff
     
     def update_all_programs(self) -> dict[str, EpisodeDiff]:
         """
         Update all programs.
-        
+
         Returns:
             Dict mapping program_id to EpisodeDiff for changed programs
         """
         programs = self.storage.load_programs()
         results = {}
-        
+
         for program in programs:
             diff = self.update_program(program.id)
             if diff and (diff.new_episodes or diff.premium_to_free):
                 results[program.id] = diff
-        
+
         return results
     
     def _detect_changes(self, old_program: Program, new_program: Program) -> EpisodeDiff:

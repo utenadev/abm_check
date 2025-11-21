@@ -279,6 +279,14 @@ for new_ep in new_program.episodes:
 
 この分類により、最新話番号の算出時に特別エピソードを除外し、正確な放送進行状況を把握できます。
 
+### ProgramUpdaterのプラットフォーム対応
+
+`ProgramUpdater`は、登録済み番組のplatform情報（またはURL）に基づいて、適切なfetcherを使用するようになりました。
+
+- 以前は、`update`コマンド実行時にデフォルトで`AbemaFetcher`が使用され、platformに関係なくAbemaTVとして扱われる問題があった
+- 修正後、`FetcherFactory`を使用して、保存されたprogramのplatformに応じたfetcherが選択される
+- これにより、TVerやニコニコ動画の番組も正しく更新可能に
+
 ### エピソードURL生成
 
 エピソードIDから視聴URLを生成:
