@@ -196,8 +196,9 @@ def version(ctx: click.Context) -> None:
 @cli.command()
 @click.argument('program_id', required=False)
 @click.option('--output', '-o', default='download_urls.txt', help='出力ファイル名')
+@click.option('--format', type=click.Choice(['txt', 'yaml']), default='txt', help='出力形式 (デフォルト: txt)')
 @click.pass_context
-def update(ctx: click.Context, program_id: str, output: str) -> None:
+def update(ctx: click.Context, program_id: str, output: str, format: str) -> None:
     """
     番組情報を更新してDL対象を検出
 
@@ -227,7 +228,7 @@ def update(ctx: click.Context, program_id: str, output: str) -> None:
             program = storage.find_program(program_id)
             md_gen.save_program_md(program)
 
-            dl_file = dl_gen.generate_download_list(program, diff, output)
+            dl_file = dl_gen.generate_download_list(program, diff, output, format=format)
 
             logger.info(f"Changes detected:")
             logger.info(f"  New episodes: {len(diff.new_episodes)}")
@@ -248,7 +249,7 @@ def update(ctx: click.Context, program_id: str, output: str) -> None:
                 md_gen.save_program_md(program)
                 updates[prog_id] = (program, diff)
 
-            dl_file = dl_gen.generate_combined_list(updates, output)
+            dl_file = dl_gen.generate_combined_list(updates, output, format=format)
 
             logger.info(f"Updated {len(results)} programs")
             for prog_id, diff in results.items():

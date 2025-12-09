@@ -135,3 +135,72 @@ def test_generate_combined_list_no_updates(tmp_path):
     
     assert result_path is None
     assert not (output_dir / output_file).exists()
+
+def test_generate_download_list_yaml(tmp_path, test_program, create_episode):
+    """Test generating a list in YAML format."""
+    import yaml
+    output_dir = tmp_path / "output"
+    output_file = "list.yaml"
+    
+    new_ep = create_episode("ep2", 2, title="New Ep", duration=1200, thumbnail_url="http://thumb.com/ep2.jpg")
+    free_ep = create_episode("ep1", 1, title="Free Ep", duration=1200, thumbnail_url="http://thumb.com/ep1.jpg")
+    diff = EpisodeDiff(new_episodes=[new_ep], premium_to_free=[free_ep])
+    
+    generator = DownloadListGenerator(output_dir=str(output_dir))
+    result_path = generator.generate_download_list(test_program, diff, output_file, format="yaml")
+    
+    assert result_path.exists()
+    
+    with open(result_path, encoding='utf-8') as f:
+        data = yaml.safe_load(f)
+        
+    assert "entries" in data
+    assert len(data["entries"]) == 2
+    
+    # Check new episode entry
+    new_entry = next(e for e in data["entries"] if e["id"] == "ep2")
+    assert new_entry["title"] == "New Ep"
+    assert new_entry["entry_type"] == "new"
+    assert new_entry["thumbnail"] == "http://thumb.com/ep2.jpg"
+    assert new_entry["platform"] == "abema"
+    
+    # Check premium to free entry
+    free_entry = next(e for e in data["entries"] if e["id"] == "ep1")
+    assert free_entry["title"] == "Free Ep"
+    assert free_entry["entry_type"] == "premium_to_free"
+    
+    # Check metadata
+    assert "metadata" in data
+    assert data["metadata"]["new_episodes"] == 1
+    assert data["metadata"]["premium_to_free"] == 1
+    assert data["metadata"]["abm_check_version"] == "1.0.0"
+
+def test_generate_combined_list_yaml(tmp_path, create_program, create_episode):
+    """Test generating a combined list in YAML format."""
+    import yaml
+    output_dir = tmp_path / "output"
+    output_file = "combined.yaml"
+    
+    prog1 = create_program("prog-1", [], title="Show 1")
+    diff1 = EpisodeDiff(new_episodes=[create_episode("p1e1", 1)], premium_to_free=[])
+    
+    prog2 = create_program("prog-2", [], title="Show 2")
+    diff2 = EpisodeDiff(new_episodes=[], premium_to_free=[create_episode("p2e1", 1)])
+    
+    updates = {
+        "prog-1": (prog1, diff1),
+        "prog-2": (prog2, diff2),
+    }
+    
+    generator = DownloadListGenerator(output_dir=str(output_dir))
+    result_path = generator.generate_combined_list(updates, output_file, format="yaml")
+    
+    assert result_path.exists()
+    
+    with open(result_path, encoding='utf-8') as f:
+        data = yaml.safe_load(f)
+        
+    assert len(data["entries"]) == 2
+    assert data["metadata"]["total_entries"] == 2
+    assert data["metadata"]["new_episodes"] == 1
+    assert data["metadata"]["premium_to_free"] == 1

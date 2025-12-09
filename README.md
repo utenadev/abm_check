@@ -127,6 +127,9 @@ abm_check update
 
 # 出力ファイル名を指定
 abm_check update 26-156 -o new_episodes.txt
+
+# YAML形式で出力
+abm_check update 26-156 --format yaml -o download_list.yaml
 ```
 
 更新時に検出される変更:

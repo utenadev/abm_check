@@ -23,15 +23,17 @@ def create_episode(create_video_format):
         number: int,
         is_downloadable: bool = True,
         is_premium_only: bool = False,
-        title: str = None
+        title: str = None,
+        duration: int = 1420,
+        thumbnail_url: str = "http://example.com/thumb.png"
     ) -> Episode:
         return Episode(
             id=id,
             number=number,
             title=title or f"Episode {number}",
             description=f"Description for episode {number}",
-            duration=1420,
-            thumbnail_url="http://example.com/thumb.png",
+            duration=duration,
+            thumbnail_url=thumbnail_url,
             is_downloadable=is_downloadable,
             is_premium_only=is_premium_only,
             download_url="http://example.com/video.m3u8" if is_downloadable else None,
